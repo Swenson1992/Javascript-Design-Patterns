@@ -1,0 +1,23 @@
+{
+  "name": "javascript-design-patterns",
+  "version": "1.0.0",
+  "description": "设计模式",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swenson1992/Javascript-Design-Patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swenson1992/Javascript-Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/Swenson1992/Javascript-Design-Patterns#readme"
+}
